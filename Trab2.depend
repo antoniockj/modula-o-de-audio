@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1698256406 source:c:\users\administrator\desktop\trab2\teste2_3clipping.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1651856764 c:\users\administrator\desktop\trab2\wavfile.h
+	<stdio.h>
+
+1698187350 c:\users\administrator\desktop\trab2\trabalho2.h
+
+1651853006 source:c:\users\administrator\desktop\trab2\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1698441059 source:c:\users\administrator\desktop\trab2\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1698441074 source:c:\users\administrator\desktop\trab2\abc.c
+	<C:\Users\Administrator\Desktop\Trab2\trabalho2.h>
+	<C:\Users\Administrator\Desktop\Trab2\wavfile.h>
+	"trabalho2.h"
+	"wavfile.h"
+
